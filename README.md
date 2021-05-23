@@ -1,5 +1,7 @@
 # WORK-ML
 http://127.0.0.1:5000
+LINK TO VIDEO:
+https://www.loom.com/share/2d8d273d56f8485d8ad1133d106f2e19
 
 TEAM ID: BFH/recMuXbQkYDR42dsR/2021
 
