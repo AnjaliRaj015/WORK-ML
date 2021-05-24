@@ -1,4 +1,4 @@
-# WORK-ML
+# JAC-MAN IMAGE CLASSIFIER
 LINK TO VIDEO:
 https://drive.google.com/file/d/1B8myR7rcM9viBfHuz9VOCAoDfe2nG-LX/view?usp=sharing
 
