@@ -1,4 +1,6 @@
 # MAC FRUIT CLASSIFIER
+STACK:Machine Learning
+PROJECT:chakka-manga image classifier
 LINK TO VIDEO:
 https://drive.google.com/file/d/1B8myR7rcM9viBfHuz9VOCAoDfe2nG-LX/view?usp=sharing
 
