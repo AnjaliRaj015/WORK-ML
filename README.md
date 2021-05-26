@@ -32,6 +32,13 @@ BFH/recMuXbQkYDR42dsR/2021
 14.To install flask
 15.Now create a new directory, copy your model (“model.h5”) to this directory
 16.Create a file app.py and input codes, make a webpage body design using html
+
+##How to configure
+1.use Python (3.x)
+2.import required libraries
+3.Dataset should be divided into two folder: Training and Testing
+4.Estimate models perfomance and validation accuracy; the more it is accurate, the more it will predict the image correctly
+
 17.Save this file and run using python conda venv
 
 ##Libraries used
