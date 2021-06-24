@@ -1,21 +1,21 @@
 # MAC FRUIT CLASSIFIER
-##STACK
+## STACK
 Machine Learning
-##PROJECT
+## PROJECT
 Chakka vs Manga Image Classifier
      It is a fundamental Deep Learning project done using Python Keras. In this Keras project, we will discover how to build and train a convolution neural network for classifying images of Jackfruit and Mango. The dataset includes 500 images with equal numbers of labels for jackfruit and mango.
 ##LINK TO VIDEO:
 https://drive.google.com/file/d/1B8myR7rcM9viBfHuz9VOCAoDfe2nG-LX/view?usp=sharing
 
-##TEAM ID
+## TEAM ID
 BFH/recMuXbQkYDR42dsR/2021
 
-##TEAM MEMBERS:
+## TEAM MEMBERS:
    1. ANJALI RAJENDRAN
    2. ANJALY SATHEESH
    3.ALENA ACHANKUNJU DANIEL
 
-##How it Works?
+## How it Works?
 1.Import the libraries
 2.Define image properties
 3.Prepare dataset for training model
@@ -34,13 +34,13 @@ BFH/recMuXbQkYDR42dsR/2021
 16.Create a file app.py and input codes, make a webpage body design using html
 17.Save this file and run using python conda venv
 
-##How to configure
+## How to configure
 1.use Python (3.x)
 2.import required libraries
 3.Dataset should be divided into two folder: Training and Testing
 4.Estimate models perfomance and validation accuracy; the more it is accurate, the more it will predict the image correctly
 
-##Libraries used
+## Libraries used
 1.tensorflow==2.0.0
 2.tensorflow-estimator==2.0.1
 3.Keras==2.3.1
