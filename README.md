@@ -4,7 +4,7 @@ Machine Learning
 ## PROJECT
 Chakka vs Manga Image Classifier
      It is a fundamental Deep Learning project done using Python Keras. In this Keras project, we will discover how to build and train a convolution neural network for classifying images of Jackfruit and Mango. The dataset includes 500 images with equal numbers of labels for jackfruit and mango.
-##LINK TO VIDEO:
+## LINK TO VIDEO:
 https://drive.google.com/file/d/1B8myR7rcM9viBfHuz9VOCAoDfe2nG-LX/view?usp=sharing
 
 ## TEAM ID
